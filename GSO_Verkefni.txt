@@ -1,0 +1,7 @@
+1. Hvað gera eftirfarandi Linux skipanir?
+
+cd færir mann á sérvalna staðsetningu
+cd ~ færir þig heim
+ls sýnir öll skjöl/möppur inní möppunni sem þú ert í
+pwd sýnir nákvæma staðsetningu þína frá drifinu
+mkdir býr til möppu
