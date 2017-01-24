@@ -1,7 +1,16 @@
 1. Hvað gera eftirfarandi Linux skipanir?
 
-cd færir mann á sérvalna staðsetningu
-cd ~ færir þig heim
-ls sýnir öll skjöl/möppur inní möppunni sem þú ert í
-pwd sýnir nákvæma staðsetningu þína frá drifinu
-mkdir býr til möppu
+cd - færir mann á sérvalna staðsetningu
+cd ~ - færir þig heim
+ls - sýnir öll skjöl/möppur inní möppunni sem þú ert í
+pwd - sýnir nákvæma staðsetningu þína frá drifinu
+mkdir - býr til möppu
+
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+
+git clone - afritar repository
+git log - sýnir history-ið á repository-inu
+git status - sýnir nýjustu breytingar á skjölunum
+git diff - sýnir muninn á tveimur skjölum/branch-um
+git checkout - færir þig um stað í git-inu þínu
