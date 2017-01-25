@@ -12,5 +12,17 @@ mkdir - býr til möppu
 git clone - afritar repository
 git log - sýnir history-ið á repository-inu
 git status - sýnir nýjustu breytingar á skjölunum
-git diff - sýnir muninn á tveimur skjölum/branch-um
+git diff - sýnir hvernig master skjalið mun líta út eftir að þú notar git commit
 git checkout - færir þig um stað í git-inu þínu
+
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+	
+a) sýnir hvernig master skjalið mun líta út eftir að þú notar git commit
+b) sýnir hvaða breytingar eru staged
+c) sýnir muninn á tveimur commits
+
+
