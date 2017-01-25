@@ -26,3 +26,8 @@ b) sýnir hvaða breytingar eru staged
 c) sýnir muninn á tveimur commits
 
 
+4. Hvað er útgáfustýring (e.version control)? 
+
+Git er með version control sem þýðir að þú getur stjórnað og fylgst með öllum versions af skjalinu þínu og farið til baka ef þú villt.
+
+
