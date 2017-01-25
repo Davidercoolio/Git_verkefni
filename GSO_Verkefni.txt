@@ -34,3 +34,8 @@ Git er með version control sem þýðir að þú getur stjórnað og fylgst með öllum ve
 5. Hverjir eru helstu kostir við að nota GIT?
 
 Git er með version control, og það geta margir unnið í sömu skjölunum í einu
+
+
+6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+
+Í hvert skipti sem þú gerir mikilvæga breytingu. Það er oftast betra að laga bara einn hlut í einu þannig að það sé léttara að fylgjast með hvað er í gangi og léttara að taka eitthvað til baka ef eitthvað virkar ekki.
