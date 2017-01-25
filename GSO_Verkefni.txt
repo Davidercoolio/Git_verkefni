@@ -66,3 +66,9 @@ eða fyrir stórar experimental breytingar sem þú ert ekki viss um að muni virka
 9. Hver fann upp GIT?
 
 Linus Torvalds
+
+
+
+10. Hvar er GIT helst notað?
+
+Git er mest notað hjá forritunum og hjá vefsíðuhönnuðum
