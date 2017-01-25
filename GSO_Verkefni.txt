@@ -31,3 +31,6 @@ c) sýnir muninn á tveimur commits
 Git er með version control sem þýðir að þú getur stjórnað og fylgst með öllum versions af skjalinu þínu og farið til baka ef þú villt.
 
 
+5. Hverjir eru helstu kostir við að nota GIT?
+
+Git er með version control, og það geta margir unnið í sömu skjölunum í einu
