@@ -62,3 +62,7 @@ ef þú ert að vinna með mörgum í einu þá er miklu þægilegra að nota branches
 eða fyrir stórar experimental breytingar sem þú ert ekki viss um að muni virka
 
 
+
+9. Hver fann upp GIT?
+
+Linus Torvalds
