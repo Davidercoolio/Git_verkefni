@@ -47,11 +47,18 @@ Git er með version control, og það geta margir unnið í sömu skjölunum í einu
 
 
 
-7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+7. Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
 Working directory = directoryið sem þú ert að vinna í currently
 staging area = svæðið sem geymir hvaða breytingar munu gerast næst
 repository = aðal skjalið
 
+
+
+8. Hvenær er sniðugt að nota greinar (branches)? 
+
+ef þú ert að vinna með til dæmis nokkur operating system í einu, getur þú verið með eitt branch fyrir hvert
+ef þú ert að vinna með mörgum í einu þá er miklu þægilegra að nota branches
+eða fyrir stórar experimental breytingar sem þú ert ekki viss um að muni virka
 
 
