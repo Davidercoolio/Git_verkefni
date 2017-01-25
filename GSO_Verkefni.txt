@@ -7,6 +7,7 @@ pwd - sýnir nákvæma staðsetningu þína frá drifinu
 mkdir - býr til möppu
 
 
+
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 
 git clone - afritar repository
@@ -14,6 +15,7 @@ git log - sýnir history-ið á repository-inu
 git status - sýnir nýjustu breytingar á skjölunum
 git diff - sýnir hvernig master skjalið mun líta út eftir að þú notar git commit
 git checkout - færir þig um stað í git-inu þínu
+
 
 
 3. Hver er munurinn á eftirfarandi git skipunum:
@@ -26,9 +28,11 @@ b) sýnir hvaða breytingar eru staged
 c) sýnir muninn á tveimur commits
 
 
+
 4. Hvað er útgáfustýring (e.version control)? 
 
 Git er með version control sem þýðir að þú getur stjórnað og fylgst með öllum versions af skjalinu þínu og farið til baka ef þú villt.
+
 
 
 5. Hverjir eru helstu kostir við að nota GIT?
@@ -36,6 +40,18 @@ Git er með version control sem þýðir að þú getur stjórnað og fylgst með öllum ve
 Git er með version control, og það geta margir unnið í sömu skjölunum í einu
 
 
+
 6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 
 Í hvert skipti sem þú gerir mikilvæga breytingu. Það er oftast betra að laga bara einn hlut í einu þannig að það sé léttara að fylgjast með hvað er í gangi og léttara að taka eitthvað til baka ef eitthvað virkar ekki.
+
+
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+Working directory = directoryið sem þú ert að vinna í currently
+staging area = svæðið sem geymir hvaða breytingar munu gerast næst
+repository = aðal skjalið
+
+
+
