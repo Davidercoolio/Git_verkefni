@@ -29,3 +29,13 @@ Electrostatic discharge
 
 
 
+6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+
+Skref 1: Finndu út hvað vandamálið er
+Skref 2: Finna líklegustu gallana
+Skref 3: Prófaðu líklegustu gallana til að finna vandamálið
+Skref 4: Planaðu hvernig þú ætlar að laga vandamálið
+Skref 5: Gáðu hvort að vandamálið hafi lagast og vertu viss um að vandamálið muni ekki koma upp aftur
+Skref 6: Skrifaðu niður allt sem þú lærðir frá þessu
+
+
