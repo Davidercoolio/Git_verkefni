@@ -20,6 +20,7 @@ Að halda tölvunni fínni til að vera viss um að eingin vandamál muni koma upp
 ## verjast því þegar unnið er með tölvubúnað?
 
 Electrostatic discharge
+þú þarft að passa að þú losnir við allt stöðurafmagn af höndunum þínum áður en þú snertir tölvubúnaðinn þinn
 
 
 
