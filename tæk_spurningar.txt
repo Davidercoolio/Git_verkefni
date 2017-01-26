@@ -23,4 +23,9 @@ Electrostatic discharge
 
 
 
+5. Hvað þarf að hafa í huga við val á spennugjöfum?
+
+Það þarf að vera með rétt voltage
+
+
 
