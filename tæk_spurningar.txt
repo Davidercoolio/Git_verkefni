@@ -57,3 +57,19 @@ input og output tæki eins og skjár og lyklaborð
 9. Nefndu þrjú dæmi um inntakstæki.
 
 Lyklaborð, mús og drawing tablet 
+
+
+
+10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+| Partur                               |Búð              | Verð(kr)|
+| -------------------------------------|-----------------|---------|
+| Intel core I7 7700K 4.2GHZ           | Tölvutækni      | 59k     |
+| Geforce GTX 1060 6GB                 | @tt.is          | 44k     |
+| Asus Z170 Móðurborð                  | @tt.is          | 28k     |
+| Aerocool Strike-X 1100W              | Kísildalur      | 29k     |    
+| 32 GB (4x8 GB) 2400 MHz minni        | Tölvutækni      | 30k     |
+| Cooler Master Silencio 352 m-ATX/ITX | Töluvlistinn    | 13k     |
+| 980 GB Crucial BX200 Harður Diskur   | Computer.is     | 43k     |
