@@ -13,3 +13,14 @@ Read-Only Memory
 3. Hvað er fyrirbyggjandi viðhald?
 
 Að halda tölvunni fínni til að vera viss um að eingin vandamál muni koma upp
+
+
+
+4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
+verjast því þegar unnið er með tölvubúnað?
+
+Electrostatic discharge
+
+
+
+
