@@ -17,7 +17,7 @@ Að halda tölvunni fínni til að vera viss um að eingin vandamál muni koma upp
 
 
 ## 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
-verjast því þegar unnið er með tölvubúnað?
+## verjast því þegar unnið er með tölvubúnað?
 
 Electrostatic discharge
 
@@ -41,7 +41,7 @@ Skref 6: Skrifaðu niður allt sem þú lærðir frá þessu
 
 
 ## 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
-Nefnið dæmi um báðar gerðir af spurningum.
+## Nefnið dæmi um báðar gerðir af spurningum.
 
 opin spurning er spurning sem leyfir viðtakandanum að segja hvað sem er, til dæmis.: hvað ertu að gera?
 á meðan lokuð spurning gefur viðtakandanum fáa valmöguleika, til dæmis: ertu að gera þetta?
@@ -59,10 +59,10 @@ input og output tæki eins og skjár og lyklaborð
 Lyklaborð, mús og drawing tablet 
 
 
-
+
 ## 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
-leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
-fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+## leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+## fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 
 | Partur                               |Búð              | Verð(kr)|
 | -------------------------------------|-----------------|---------|
