@@ -54,3 +54,6 @@ input og output tæki eins og skjár og lyklaborð
 
 
 
+9. Nefndu þrjú dæmi um inntakstæki.
+
+Lyklaborð, mús og drawing tablet 
