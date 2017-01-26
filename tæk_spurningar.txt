@@ -39,3 +39,9 @@ Skref 5: Gáðu hvort að vandamálið hafi lagast og vertu viss um að vandamálið mun
 Skref 6: Skrifaðu niður allt sem þú lærðir frá þessu
 
 
+
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.
+
+opin spurning er spurning sem leyfir viðtakandanum að segja hvað sem er, til dæmis.: hvað ertu að gera?
+á meðan lokuð spurning gefur viðtakandanum fáa valmöguleika, til dæmis: ertu að gera þetta?
