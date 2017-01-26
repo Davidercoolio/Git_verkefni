@@ -74,3 +74,5 @@ Lyklaborð, mús og drawing tablet
 | 32 GB (4x8 GB) 2400 MHz minni        | Tölvutækni      | 30k     |
 | Cooler Master Silencio 352 m-ATX/ITX | Töluvlistinn    | 13k     |
 | 980 GB Crucial BX200 Harður Diskur   | Computer.is     | 43k     |
+
+#### Samtals verð: 246k kr.
