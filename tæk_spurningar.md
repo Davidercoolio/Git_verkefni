@@ -1,0 +1,75 @@
+## 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
+
+Random Access Memory
+
+
+
+## 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
+
+Read-Only Memory
+
+
+
+## 3. Hvað er fyrirbyggjandi viðhald?
+
+Að halda tölvunni fínni til að vera viss um að eingin vandamál muni koma upp
+
+
+
+## 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
+verjast því þegar unnið er með tölvubúnað?
+
+Electrostatic discharge
+
+
+
+## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
+
+Það þarf að vera með rétt voltage
+
+
+
+## 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+
+Skref 1: Finndu út hvað vandamálið er
+Skref 2: Finna líklegustu gallana
+Skref 3: Prófaðu líklegustu gallana til að finna vandamálið
+Skref 4: Planaðu hvernig þú ætlar að laga vandamálið
+Skref 5: Gáðu hvort að vandamálið hafi lagast og vertu viss um að vandamálið muni ekki koma upp aftur
+Skref 6: Skrifaðu niður allt sem þú lærðir frá þessu
+
+
+
+## 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.
+
+opin spurning er spurning sem leyfir viðtakandanum að segja hvað sem er, til dæmis.: hvað ertu að gera?
+á meðan lokuð spurning gefur viðtakandanum fáa valmöguleika, til dæmis: ertu að gera þetta?
+
+
+
+## 8. Hvað eru jaðartæki?
+
+input og output tæki eins og skjár og lyklaborð
+
+
+
+## 9. Nefndu þrjú dæmi um inntakstæki.
+
+Lyklaborð, mús og drawing tablet 
+
+
+
+## 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+| Partur                               |Búð              | Verð(kr)|
+| -------------------------------------|-----------------|---------|
+| Intel core I7 7700K 4.2GHZ           | Tölvutækni      | 59k     |
+| Geforce GTX 1060 6GB                 | @tt.is          | 44k     |
+| Asus Z170 Móðurborð                  | @tt.is          | 28k     |
+| Aerocool Strike-X 1100W              | Kísildalur      | 29k     |    
+| 32 GB (4x8 GB) 2400 MHz minni        | Tölvutækni      | 30k     |
+| Cooler Master Silencio 352 m-ATX/ITX | Töluvlistinn    | 13k     |
+| 980 GB Crucial BX200 Harður Diskur   | Computer.is     | 43k     |
