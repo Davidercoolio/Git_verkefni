@@ -1,75 +1,75 @@
-##1. Fyrir hvağ stendur skammstöfunin RAM? Útskırğu hvağ RAM er.
+##1. Fyrir hvaÃ° stendur skammstÃ¶funin RAM? ÃštskÃ½rÃ°u hvaÃ° RAM er.
 
 Random Access Memory
 
 
 
-##2. Fyrir hvağ stendur skammstöfunin ROM? Útskırğu hvağ ROM er.
+##2. Fyrir hvaÃ° stendur skammstÃ¶funin ROM? ÃštskÃ½rÃ°u hvaÃ° ROM er.
 
 Read-Only Memory
 
 
 
-##3. Hvağ er fyrirbyggjandi viğhald?
+##3. HvaÃ° er fyrirbyggjandi viÃ°hald?
 
-Ağ halda tölvunni fínni til ağ vera viss um ağ eingin vandamál muni koma upp
+AÃ° halda tÃ¶lvunni fÃ­nni til aÃ° vera viss um aÃ° eingin vandamÃ¡l muni koma upp
 
 
 
-##4. Fyrir hvağ stendur skammstöfunin ESD, hvağ er şağ og hvağa leiğir höfum viğ til ağ
-verjast şví şegar unniğ er meğ tölvubúnağ?
+##4. Fyrir hvaÃ° stendur skammstÃ¶funin ESD, hvaÃ° er Ã¾aÃ° og hvaÃ°a leiÃ°ir hÃ¶fum viÃ° til aÃ°
+verjast Ã¾vÃ­ Ã¾egar unniÃ° er meÃ° tÃ¶lvubÃºnaÃ°?
 
 Electrostatic discharge
 
 
 
-##5. Hvağ şarf ağ hafa í huga viğ val á spennugjöfum?
+##5. HvaÃ° Ã¾arf aÃ° hafa Ã­ huga viÃ° val Ã¡ spennugjÃ¶fum?
 
-Şağ şarf ağ vera meğ rétt voltage
-
-
-
-##6. Hver eru hin 6 skref viğ bilanagreiningu og viğgerğir?
-
-Skref 1: Finndu út hvağ vandamáliğ er
-Skref 2: Finna líklegustu gallana
-Skref 3: Prófağu líklegustu gallana til ağ finna vandamáliğ
-Skref 4: Planağu hvernig şú ætlar ağ laga vandamáliğ
-Skref 5: Gáğu hvort ağ vandamáliğ hafi lagast og vertu viss um ağ vandamáliğ muni ekki koma upp aftur
-Skref 6: Skrifağu niğur allt sem şú lærğir frá şessu
+ÃaÃ° Ã¾arf aÃ° vera meÃ° rÃ©tt voltage
 
 
 
-##7. Hver er munurinn á opinn (e. open ended) og lokağri (closed ended) spurningu?
-Nefniğ dæmi um báğar gerğir af spurningum.
+##6. Hver eru hin 6 skref viÃ° bilanagreiningu og viÃ°gerÃ°ir?
 
-opin spurning er spurning sem leyfir viğtakandanum ağ segja hvağ sem er, til dæmis.: hvağ ertu ağ gera?
-á meğan lokuğ spurning gefur viğtakandanum fáa valmöguleika, til dæmis: ertu ağ gera şetta?
-
-
-
-##8. Hvağ eru jağartæki?
-
-input og output tæki eins og skjár og lyklaborğ
+Skref 1: Finndu Ãºt hvaÃ° vandamÃ¡liÃ° er
+Skref 2: Finna lÃ­klegustu gallana
+Skref 3: PrÃ³faÃ°u lÃ­klegustu gallana til aÃ° finna vandamÃ¡liÃ°
+Skref 4: PlanaÃ°u hvernig Ã¾Ãº Ã¦tlar aÃ° laga vandamÃ¡liÃ°
+Skref 5: GÃ¡Ã°u hvort aÃ° vandamÃ¡liÃ° hafi lagast og vertu viss um aÃ° vandamÃ¡liÃ° muni ekki koma upp aftur
+Skref 6: SkrifaÃ°u niÃ°ur allt sem Ã¾Ãº lÃ¦rÃ°ir frÃ¡ Ã¾essu
 
 
 
-##9. Nefndu şrjú dæmi um inntakstæki.
+##7. Hver er munurinn Ã¡ opinn (e. open ended) og lokaÃ°ri (closed ended) spurningu?
+NefniÃ° dÃ¦mi um bÃ¡Ã°ar gerÃ°ir af spurningum.
 
-Lyklaborğ, mús og drawing tablet 
+opin spurning er spurning sem leyfir viÃ°takandanum aÃ° segja hvaÃ° sem er, til dÃ¦mis.: hvaÃ° ertu aÃ° gera?
+Ã¡ meÃ°an lokuÃ° spurning gefur viÃ°takandanum fÃ¡a valmÃ¶guleika, til dÃ¦mis: ertu aÃ° gera Ã¾etta?
 
 
 
-##10. Notağu vefsíğur íslenskra tölvuverslana til ağ velja íhluti til ağ setja saman góğa
-leikjatölvu. Şú ert meğ fjármagn upp á 250 şúsund krónur. Settu upp töflu şar sem
-fram kemur hvağa íhluti şú valdir, hvağ hver íhlutur kostar og hvar hann fæst.
+##8. HvaÃ° eru jaÃ°artÃ¦ki?
 
-| Partur                               |Búğ              | Verğ(kr)|
-| -------------------------------------|-----------------|---------|
-| Intel core I7 7700K 4.2GHZ           | Tölvutækni      | 59k     |
-| Geforce GTX 1060 6GB                 | @tt.is          | 44k     |
-| Asus Z170 Móğurborğ                  | @tt.is          | 28k     |
-| Aerocool Strike-X 1100W              | Kísildalur      | 29k     |    
-| 32 GB (4x8 GB) 2400 MHz minni        | Tölvutækni      | 30k     |
-| Cooler Master Silencio 352 m-ATX/ITX | Töluvlistinn    | 13k     |
-| 980 GB Crucial BX200 Harğur Diskur   | Computer.is     | 43k     |
+input og output tÃ¦ki eins og skjÃ¡r og lyklaborÃ°
+
+
+
+##9. Nefndu Ã¾rjÃº dÃ¦mi um inntakstÃ¦ki.
+
+LyklaborÃ°, mÃºs og drawing tablet 
+
+
+
+##10. NotaÃ°u vefsÃ­Ã°ur Ã­slenskra tÃ¶lvuverslana til aÃ° velja Ã­hluti til aÃ° setja saman gÃ³Ã°a
+leikjatÃ¶lvu. ÃÃº ert meÃ° fjÃ¡rmagn upp Ã¡ 250 Ã¾Ãºsund krÃ³nur. Settu upp tÃ¶flu Ã¾ar sem
+fram kemur hvaÃ°a Ã­hluti Ã¾Ãº valdir, hvaÃ° hver Ã­hlutur kostar og hvar hann fÃ¦st.
+
+| Partur                               | BÃºÃ°             | VerÃ°(kr) |
+| -------------------------------------|-----------------|----------|
+| Intel core I7 7700K 4.2GHZ           | TÃ¶lvutÃ¦kni      | 59k      |
+| Geforce GTX 1060 6GB                 | @tt.is          | 44k      |
+| Asus Z170 MÃ³Ã°urborÃ°                  | @tt.is          | 28k      |
+| Aerocool Strike-X 1100W              | KÃ­sildalur      | 29k      |    
+| 32 GB (4x8 GB) 2400 MHz minni        | TÃ¶lvutÃ¦kni      | 30k      |
+| Cooler Master Silencio 352 m-ATX/ITX | TÃ¶luvlistinn    | 13k      |
+| 980 GB Crucial BX200 HarÃ°ur Diskur   | Computer.is     | 43k      |
