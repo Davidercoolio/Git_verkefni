@@ -45,3 +45,12 @@ Nefnið dæmi um báðar gerðir af spurningum.
 
 opin spurning er spurning sem leyfir viðtakandanum að segja hvað sem er, til dæmis.: hvað ertu að gera?
 á meðan lokuð spurning gefur viðtakandanum fáa valmöguleika, til dæmis: ertu að gera þetta?
+
+
+
+8. Hvað eru jaðartæki?
+
+input og output tæki eins og skjár og lyklaborð
+
+
+
